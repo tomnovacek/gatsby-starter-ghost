@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
+    "apiUrl": "https://tomasnovacek.com",
     "contentApiKey": "a18899087f06068468dbfa33c8"
   },
   "production": {
-    "apiUrl": "http://localhost:2368",
+    "apiUrl": "https://tomasnovacek.com",
     "contentApiKey": "a18899087f06068468dbfa33c8"
   }
 }
